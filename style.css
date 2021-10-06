@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-image: url('./background.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+div{
+    background-color:darkgrey;
+    opacity: 0.8;
+}
+h1{
+    color:palegreen;
+}
+h3{
+    color:palegreen;
+}
+label{
+    color:rgb(250, 252, 151);
+    font-size: 25px;
+}
+span{
+    color:palegoldenrod
+    font-size: 25px;
+}
